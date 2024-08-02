@@ -1,0 +1,164 @@
+
+.thiam1{
+    text-align: center;
+}
+.babaa{
+    text-align: center;
+}
+.baba{
+    text-align: center;
+}
+/* /* .bb{
+    /* background-color: rgb(213, 250, 246);
+    height: 600px; */
+   
+ */
+.hh{
+    text-align: left;
+    color: dodgerblue;
+}
+.h5{
+    color: dodgerblue;
+}
+.img1{
+    margin-top: 0px;
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+
+}
+.qq{
+    /*background-color: #457b9d;*/
+    border-radius: 20px;
+    width: 200px;
+    height: 180px;
+    margin-top: -182PX;
+   
+
+}
+nav{
+   /* background-color: rgb(213, 250, 246);*/
+    box-shadow: 0px 2px ;
+    background-color: #333;
+}
+/* .aa{
+    background-color: rgb(213, 250, 246);
+    
+  
+} */
+.ros{
+    text-align: center;
+}
+.cc{
+    background-color: rgb(213, 250, 246);
+}
+.lu{
+    background-color: rgb(213, 250, 246);
+    box-shadow: 0px 2px  ;
+   
+}
+
+h6{
+    color: cornflowerblue;
+}
+.clor{
+    background-color: cornflowerblue;
+}
+
+
+
+
+
+
+
+
+.p1{
+    text-align: left;
+}
+.clor2{
+    text-align: right;
+    background-color: burlywood;
+    font-weight: bold;
+    color: aliceblue;
+    text-align: center;
+}
+
+
+
+
+.bb{
+
+
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #000;
+    color: #fff;
+}
+
+
+.profile button {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    font-size: 1em;
+    cursor: pointer;
+}
+.bb button{
+    background-color: #4CAF50;
+    color: white;
+}
+
+.partners img {
+    width: 50px;
+    height: 50px;
+    margin: 0 10px;
+    margin-left: 120px;
+}
+.p1{
+    margin-left: 120px;
+}
+
+
+.case-study  {
+    width: 100%;
+    max-width: 300px;
+    height: auto;}
+
+    .case-studies-section{
+        justify-content: center;
+        display: flex;
+        text-align: center;
+    }
+
+    .btn1{
+        background-color: rgb(23, 5, 228);
+        border-radius: 10px;
+    }
+    .btn2{
+        background-color: #e69b10;
+        border-radius: 10px;
+        
+    }
+    .bt3{
+        color: #e69b10;
+        text-shadow: #ebe7e7;
+        border-radius: 15px;
+    }
+
+    .btn4{
+        background-color: rgb(213, 213, 240);
+        color: blue;
+        border-radius: 10px;
+    }
+    .btn5{
+        background-color: rgb(21, 217, 171);
+        color: white;
+        border-radius: 10px;
+    }
+    .btn6{
+        background-color: #b0e7b2;
+        color: #4CAF50;
+        border-radius: 10px;
+    }
